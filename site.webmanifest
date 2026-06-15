@@ -1,0 +1,27 @@
+{
+  "name": "Tiệm Chay Tâm An",
+  "short_name": "Chay Tâm An",
+  "description": "Món chay thượng hạng và thanh tịnh, đặt hàng nhanh qua VietQR.",
+  "lang": "vi-VN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07110d",
+  "theme_color": "#07110d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

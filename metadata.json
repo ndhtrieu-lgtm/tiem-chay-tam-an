@@ -1,0 +1,6 @@
+{
+  "name": "Tiệm Chay Tâm An",
+  "description": "Hệ thống đặt bàn, phục vụ món chay tinh tế và mua sắm thực phẩm chay Tiệm Chay Tâm An với trợ lý AI và thanh toán VietQR chuyển khoản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
